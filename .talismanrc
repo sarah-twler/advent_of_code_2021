@@ -1,0 +1,19 @@
+fileignoreconfig:
+- filename: day_1-24/.idea/uiDesigner.xml
+  checksum: d73e98495a17e4ddd19e5e45d33d527dd8bfc5c5c7e3ba8f211232e4d259cc5a
+- filename: day_1-24/data/day_15/enlarged_test_input.txt
+  checksum: 788896ea6235b48f781532450ecf752ede8a9aca736dbf5054bfc714e24661c9
+- filename: day_1-24/data/day_15/task_input.txt
+  checksum: 687ad986aa0c63a85da94b5841310faf3c58592e06d3af3682a7e7978b49906a
+- filename: day_1-24/data/day_16/task_input.txt
+  checksum: 71f87707f6f1b1973c0759198f4ee5ef1afa2704998f9762341a388c0436d0b7
+- filename: day_1-24/data/day_9/task_input.txt
+  checksum: 2e5da3374bd5dbb8e2e7fbd59e7cbe3d327a7105c9610a2287b114d85a419868
+- filename: day_1-24/src/AoC/day_14/Polymerization.java
+  checksum: 53e4ef4423a7b2395ff159a11f03dd62908abfa0fd023c665b150ad6061ec8d6
+- filename: day_1-24/src/AoC/day_8/SevenSegmentSearch.java
+  checksum: 5884cab2bbf10d8bed3977c9f94f8d133c0fc54382c2f4ecca613479680cfd13
+- filename: day_1-24/test/AoC/day_16/TestPacketDecoder.java
+  checksum: fcb5027fed935cea5a7023e03dc34eaf7f4dd52da733c49a2889677f8d796fdd
+- filename: day_1-24/test/AoC/day_7/TestCrabDistribution.java
+  checksum: 3760c587bcb43142b2f68673c8ad2903360ed3edd8aaf4b9c7721c17ac248a80
